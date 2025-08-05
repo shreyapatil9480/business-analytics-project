@@ -64,3 +64,12 @@ This project demonstrates the ability to:
 ```
 
 Feel free to adapt or extend this project by experimenting with different models, adding new features, or applying advanced analytics techniques.
+
+## Next Steps
+
+Here are some ideas for extending this project:
+
+- Experiment with additional predictive models (e.g., decision trees, random forests, or gradient boosting) and compare their performance.
+- Perform feature engineering to create new derived metrics (e.g., profit margins, sales growth rates).
+- Explore time-series forecasting techniques to predict future sales based on the monthly data.
+- Build an interactive dashboard using Plotly or Dash to present the insights.
